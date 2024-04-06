@@ -1,13 +1,13 @@
-# XSS in WonderCMS 3.4.3 (Settings -> Current page)
+# XSS in WonderCMS 3.4.3 (SETTINGS -> CURRENT PAGE)
 **Software link:** WonderCMS 3.4.3 [https://www.wondercms.com/download]
 
 **@author:** Antonio Díaz.
 
-**Description:** Cross-site scripting (XSS) vulnerability in Current Page of the Settings section of WonderCMS 3.4.3 allow attackers to execute arbitrary web scripts or HTML via a crafted payload injected into several fields: 'Page Title', 'Page keywords' and/or 'Page description'.
+**Description:** Cross-site scripting (XSS) vulnerability in CURRENT PAGE of the SETTINGS section of WonderCMS 3.4.3 allow attackers to execute arbitrary web scripts or HTML via a crafted payload injected into several fields: 'PAGE TITLE', 'PAGE KEYWORDS' and/or 'PAGE DESCRIPTION'.
 
 ## PoC
-### Page Title
-1. Enter to Current Page of the Settings section in the webpage and in 'Page Title' set the payload:
+### PAGE TITLE
+1. Enter to Current Page of the SETTINGS section in the webpage and in 'PAGE TITLE' set the payload:
 
 ![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/07b89ca6-806d-46da-9b46-8db047ec1cc2)
 
@@ -18,8 +18,8 @@
  
 
 
-### Page keywords
-1. Enter to Current Page of the Settings section in the webpage and in 'Page keywords' set the payload:
+### PAGE KEYWORDS
+1. Enter to Current Page of the SETTINGS section in the webpage and in 'PAGE KEYWORDS' set the payload:
 
 ![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/67a20e0b-0f01-4233-99de-d8cfa86820aa)
 
@@ -30,8 +30,8 @@
  
 
 
-### Page description
-1. Enter to Current Page of the Settings section in the webpage and in 'Page description' set the payload:
+### PAGE DESCRIPTION
+1. Enter to Current Page of the SETTINGS section in the webpage and in 'PAGE DESCRIPTION' set the payload:
 
 ![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/10fc57bc-805c-423c-a8ef-bbc2fd03fc85)
 
