@@ -9,35 +9,36 @@
 ### PAGE TITLE
 1. Enter to Current Page of the SETTINGS section in the webpage and in 'PAGE TITLE' set the payload:
 
-![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/07b89ca6-806d-46da-9b46-8db047ec1cc2)
+![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/d2e20e01-b7a2-401c-b1ad-9932292ea020)
 
 2. Click anywhere outside the parameter box to save:
 
-![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/fb368df0-d56d-41f2-b10d-6b62b7d8fce1)
-![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/4685f287-56b5-4ce1-86df-7da714fe1b53)
- 
+![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/02fafa77-0ce3-4891-9cdd-9eeae869ac85)
+![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/d3b6da8e-5e3f-4c10-91f8-7f22986a4b1d)
+
 
 
 ### PAGE KEYWORDS
 1. Enter to Current Page of the SETTINGS section in the webpage and in 'PAGE KEYWORDS' set the payload:
 
-![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/67a20e0b-0f01-4233-99de-d8cfa86820aa)
+![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/fbb9ad74-e719-4789-a5e4-7e7763350868)
 
 2. Click anywhere outside the parameter box to save:
 
-![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/ea84c79a-a2cb-4118-b039-8f8b9883db4b)
-![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/5c7219df-d602-44bc-9d0f-b1515f179c5a)
+![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/6d3ef3b4-d716-4f48-928d-6076956e0cb6)
+![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/9438a992-4ec0-420b-aa5a-966d0c9b7abc)
  
 
 
 ### PAGE DESCRIPTION
 1. Enter to Current Page of the SETTINGS section in the webpage and in 'PAGE DESCRIPTION' set the payload:
 
-![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/10fc57bc-805c-423c-a8ef-bbc2fd03fc85)
+![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/ee578959-b408-4d66-bfe2-c40a2f680142)
 
 2. Click anywhere outside the parameter box to save:
 
-![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/e83e3211-6a35-4958-9160-b8af27e666fc)
-![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/6bdcd442-4946-4caf-b798-987123e60bca)
+![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/9765ff15-d21c-4e40-8f59-45ba24d11f65)
+![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/90d05415-2bf1-4c89-a4e1-595ea2ca6313)
+
  
 
