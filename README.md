@@ -5,8 +5,10 @@
 
 **Description:** Cross-site scripting (XSS) vulnerability in CURRENT PAGE of the SETTINGS section of WonderCMS 3.4.3 allow attackers to execute arbitrary web scripts or HTML via a crafted payload injected into several fields: 'PAGE TITLE', 'PAGE KEYWORDS' and/or 'PAGE DESCRIPTION'.
 
+**CVE:** CVE-2024-32338, CVE-2024-32744 y CVE-2024-32745.
+
 ## PoC
-### PAGE TITLE
+### PAGE TITLE (CVE-2024-32338)
 1. Enter to Current Page of the SETTINGS section in the webpage and in 'PAGE TITLE' set the payload:
 
 ![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/d2e20e01-b7a2-401c-b1ad-9932292ea020)
@@ -18,7 +20,7 @@
 
 
 
-### PAGE KEYWORDS
+### PAGE KEYWORDS (CVE-2024-32744)
 1. Enter to Current Page of the SETTINGS section in the webpage and in 'PAGE KEYWORDS' set the payload:
 
 ![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/fbb9ad74-e719-4789-a5e4-7e7763350868)
@@ -30,7 +32,7 @@
  
 
 
-### PAGE DESCRIPTION
+### PAGE DESCRIPTION (CVE-2024-32745)
 1. Enter to Current Page of the SETTINGS section in the webpage and in 'PAGE DESCRIPTION' set the payload:
 
 ![image](https://github.com/adiapera/xss_current_page_wondercms_3.4.3/assets/165512291/ee578959-b408-4d66-bfe2-c40a2f680142)
